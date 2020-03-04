@@ -15,3 +15,7 @@ We provide two utility programs which we have found to be useful.
 (2) Phasing error correction (in the PhasingCorrection.zip file). This simple tool is designed to remove phasing errors from the input haplotypes. Our experience suggests that this tool can help to improve the inference accuracy (sometime by quite a bit).
 
 If you have questions, please email: yufeng.wu@uconn.edu.
+
+# Note:
+PedMix has been distributed in GitHub earlier at: https://github.com/pjweggy/PedMix by my former student, Jingwen Pei.
+Since Jingwen has left my research group, I decide to create a new repository for better maintance of the code.
